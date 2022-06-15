@@ -141,7 +141,7 @@ true
 bob@dylan:~$
 ```
 
-+ [x] [2. First API](./server.js) , [2. First API](./routes/index.js) , [2. First API](./ controllers/AppController.js)
++ [x] [2. First API](./server.js) , [2. First API](./routes/index.js) , [2. First API](./controllers/AppController.js)
 
 + Inside server.js, create the Express server:
 
